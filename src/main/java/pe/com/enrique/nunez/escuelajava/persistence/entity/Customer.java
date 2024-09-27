@@ -14,7 +14,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity
-@Table(schema = "dbo",name = "customers")
+@Table(schema = "db_tech_emporium",name = "customers")
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
